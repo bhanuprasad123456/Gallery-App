@@ -1,0 +1,37 @@
+/* Write your code here. */
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Add more styles as needed */
+}
+
+.gallery-container {
+  max-width: 800px;
+  margin: 0 auto;
+  /* Add more styles as needed */
+}
+
+.selected-image {
+  width: 100%;
+  /* Add more styles as needed */
+}
+
+.heading {
+  font-size: 24px;
+  color: #333;
+  /* Add more styles as needed */
+}
+
+.description {
+  font-size: 16px;
+  color: #666;
+  /* Add more styles as needed */
+}
+
+.thumbnails-list {
+  list-style: none;
+  display: flex;
+  image: space-between;
+  /* Add more styles as needed */
+}
